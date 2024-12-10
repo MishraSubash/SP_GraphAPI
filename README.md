@@ -8,12 +8,15 @@ This repository contains Python scripts and utilities for interacting with Micro
 - **Upload Data**: Upload Pandas DataFrames or local files to SharePoint Online.
 
 **Complete Examples**
+
 Refer to the code file for full use-case examples of interacting with SharePoint.
 
 **Contributing**
+
 We welcome contributions! Feel free to submit a pull request or open an issue if you encounter problems or have feature suggestions.
 
 **References**
+
 [Microsoft Graph API Documentation](https://learn.microsoft.com/en-us/graph/)
 [Azure Active Directory](https://portal.azure.com/#home)
 
