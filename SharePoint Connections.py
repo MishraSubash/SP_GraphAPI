@@ -1,6 +1,8 @@
 import pandas as pd
 import requests, json, sys
 from io import BytesIO
+from azure.identity import DefaultAzureCredential
+from msal import ConfidentialClientApplication
 
 
 class MICROSOFT_GRAPH:
